@@ -4,7 +4,7 @@
 #### Exercício proposto: 
  - Palpites para a Mega Sena.
 
-#### Bibliotecas utilizadas
+#### Bibliotecas utilizadas:
  - random
  - time
 
