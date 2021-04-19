@@ -1,10 +1,10 @@
 # python-palpites-mega-sena
  - Implementando o exercício do Gustavo Guanabara do canal do YouTube - Curso em Vídeo.
 
-### Exercício proposto: 
+#### Exercício proposto: 
  - Palpites para a Mega Sena.
 
-### Bibliotecas utilizadas
+#### Bibliotecas utilizadas
  - random
  - time
 
